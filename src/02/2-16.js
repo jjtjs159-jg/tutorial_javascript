@@ -14,22 +14,22 @@
 //     else no();
 // }
 
-let age = prompt("나이를 알려주세요.", 18);
+// let age = prompt("나이를 알려주세요.", 18);
 
-let welcome;
+// let welcome;
 
-if (age < 18) {
+// if (age < 18) {
 
-    welcome = function () {
-        alert("안녕!");
-    };
+//     welcome = function () {
+//         alert("안녕!");
+//     };
 
-} else {
+// } else {
 
-    welcome = function () {
-        alert("안녕하세요!");
-    };
+//     welcome = function () {
+//         alert("안녕하세요!");
+//     };
 
-}
+// }
 
-welcome(); // OK
+// welcome(); // OK
